@@ -1,0 +1,15 @@
+C:\Users\asus\Desktop\Algorthms\Algorthms\bin\Debug\net6.0\Algorthms.exe
+C:\Users\asus\Desktop\Algorthms\Algorthms\bin\Debug\net6.0\Algorthms.deps.json
+C:\Users\asus\Desktop\Algorthms\Algorthms\bin\Debug\net6.0\Algorthms.runtimeconfig.json
+C:\Users\asus\Desktop\Algorthms\Algorthms\bin\Debug\net6.0\Algorthms.dll
+C:\Users\asus\Desktop\Algorthms\Algorthms\bin\Debug\net6.0\Algorthms.pdb
+C:\Users\asus\Desktop\Algorthms\Algorthms\obj\Debug\net6.0\Algorthms.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\Algorthms\Algorthms\obj\Debug\net6.0\Algorthms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\Algorthms\Algorthms\obj\Debug\net6.0\Algorthms.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\Algorthms\Algorthms\obj\Debug\net6.0\Algorthms.AssemblyInfo.cs
+C:\Users\asus\Desktop\Algorthms\Algorthms\obj\Debug\net6.0\Algorthms.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\Algorthms\Algorthms\obj\Debug\net6.0\Algorthms.dll
+C:\Users\asus\Desktop\Algorthms\Algorthms\obj\Debug\net6.0\refint\Algorthms.dll
+C:\Users\asus\Desktop\Algorthms\Algorthms\obj\Debug\net6.0\Algorthms.pdb
+C:\Users\asus\Desktop\Algorthms\Algorthms\obj\Debug\net6.0\Algorthms.genruntimeconfig.cache
+C:\Users\asus\Desktop\Algorthms\Algorthms\obj\Debug\net6.0\ref\Algorthms.dll
